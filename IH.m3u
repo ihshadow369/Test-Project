@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:1460 type="movies" type="movies" tvg-logo="https://images1.discoveryftp.net/media/1080/Movies/Others/2025/Ne%20Zha%202/poster.jpg" group-title="ANIMATION",Ne Zha 2
+#EXTINF:1460 type="movies" tvg-logo="https://images1.discoveryftp.net/media/1080/Movies/Others/2025/Ne%20Zha%202/poster.jpg" group-title="ANIMATION",Ne Zha 2
 http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies%20%281080p%29/Ne%20Zha%20II%20%282025%29%201080p%20AMZN%20%5BMulti%20Audio%5D/Ne%20Zha%202%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%2BChinese%205.1%5D%20-mkvC.mkv
 
-#EXTINF:1460 type="movies" tvg-logo="https://images1.discoveryftp.net/media/1080/Movies/Animation/2025/Elio/poster.jpg" group-title="ANIMATION",Elio
+#EXTINF:1460 type="movies" tvg-logo="https://images1.discoveryftp.net/media/1080/Movies/Animation/2025/Elio/poster.jpg" group-title="movie",Elio
 http://cdn1.discoveryftp.net/Movies/Animation/2025/Elio/Elio.2025.1080p.WEB-DL.Hindi.LiNE.2.0-English.5.1.ESub.x264-Dual.mkv?md5=rb621dzAgGyG1cbk_8FUpA&expires=1763465406
 
-#EXTINF:1460 type="movies" tvg-logo="https://cds1.discoveryftp.net/Movies/Animation/2025/The%20Bad%20Guys%202/poster.jpg" group-title="ANIMATION",The Bad Guys 2
+#EXTINF:1460 type="movies" tvg-logo="https://cds1.discoveryftp.net/Movies/Animation/2025/The%20Bad%20Guys%202/poster.jpg" group-title="movies",The Bad Guys 2
 http://cdn1.discoveryftp.net/Movies/Animation/2025/The%20Bad%20Guys%202/The.Bad.Guys.2.2025.1080p.English.DS4K.WEB-DL.5.1.ESub.x264.mkv?md5=wyX1WmQaPyz0hvIRIwLTPg&expires=1763466744
 
-#EXTINF:1460 type="movies" tvg-logo="https://m.media-amazon.com/images/I/71gzOt6ZI6L._AC_UF1000,1000_QL80_.jpg" group-title="ANIMATION",Penguin Highway
+#EXTINF:1460 type="movie" tvg-logo="https://m.media-amazon.com/images/I/71gzOt6ZI6L._AC_UF1000,1000_QL80_.jpg" group-title="movie",Penguin Highway
 http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies%20%281080p%29/Penguin%20Highway%20%282018%29%201080p%20%5BDual%20Audio%5D/Penguin%20Highway%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BEnglish%205.1%2BJapanese%205.1%5D%20-DB.mkv
 
-#EXTINF:1460 type="movies" tvg-logo="https://images4.discoveryftp.net/media/1080/Movies/English/2021/Smelliville/poster.jpg" group-title="ANIMATION",Smelliville
+#EXTINF:1460 type="movie" tvg-logo="https://images4.discoveryftp.net/media/1080/Movies/English/2021/Smelliville/poster.jpg" group-title="movie",Smelliville
 https://cds4.discoveryftp.net/Movies/English/2021/Smelliville/Smelliville.2021.WEBRip.x264-ION10.mp4?md5=DW851buSiUg4cxlLvpZcxg&expires=1763467710
 
 #EXTINF:1460 type="movies" tvg-logo="https://images1.discoveryftp.net/media/1080/Movies/Animation/2002/Lilo%20&%20Stitch/poster.jpg" group-title="ANIMATION",Lilo & Stitch
